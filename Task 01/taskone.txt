@@ -1,0 +1,6 @@
+1) Variable scope in javascript can be refered to the current context of code which
+determines the assessibility of variables to javascript.
+
+
+2) Var and let are both used for variable declaration but the difference between them is that var is 
+function scope and let is block scope.  
