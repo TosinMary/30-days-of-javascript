@@ -1,0 +1,7 @@
+1) Difference between null and undefined is that 
+Null : This is tje intentional absence of the value While
+Undefined : This means the value does not exist in the compiler.
+ 
+ 2) NaN stands for not a number, and it is a numeric data type whose value cannot be represented 
+ using actual number and the typeOf naN is a number.
+
